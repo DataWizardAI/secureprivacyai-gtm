@@ -1,2 +1,3 @@
 # secureprivacyai-gtm
-Secure Privacy Consent Banner\nMore information: https://secureprivacy.ai/
+Secure Privacy Consent Banner  
+More information: https://secureprivacy.ai/
